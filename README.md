@@ -1,9 +1,9 @@
 # American Sign Language Image Classifier
 
 
-* We win 2018 Qualcomm AI Hackathon with this convolutional neural net model. 
+* We won the 2018 Qualcomm AI Hackathon with this convolutional neural net model. 
 
-* Achieved 100% prediction accuracy on the test set. It also achieves around 78% accuracy on CIFAR-10 dataset. It is most likely that this architecture also works on other image datasets as well.
+* The model achieved 100% prediction accuracy on the test set. It also achieves around 78% accuracy on CIFAR-10 dataset. It is most likely that this architecture also works on other image datasets as well.
 
 * American sign language image dataset is available on [kaggle](https://www.kaggle.com/datamunge/sign-language-mnist).
 
